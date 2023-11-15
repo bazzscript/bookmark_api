@@ -1,0 +1,4 @@
+In Setting Up Environemental Variables, Refer to This
+
+https://www.tomray.dev/nestjs-config
+https://docs.nestjs.com/techniques/configuration
